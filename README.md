@@ -36,4 +36,6 @@ https://www.freecodecamp.org/
   
 This is the kind of article adults read to figure out the next cycle of their code journey: https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889 
 
+And these might be good for your little sister, cousin, pal or that kid you babysit: https://www.potatopirates.game/blog/how-to-bridge-the-gender-gap-in-stem
+
 Well, good luck. These links will definitely help you continue your epic and from there, just google for what you need. Hey, and if you find some great stuff, share it at @miriampeskowitz on Twitter. 

@@ -7,8 +7,7 @@ Some links to continue your epic journey learning to code.
 http://scratched.gse.harvard.edu/guide/curriculum.html
  * Learn some more scratch tips and skills with the Scratch cards: https://resources.scratch.mit.edu/www/cards/en/scratch-cards-all.pdf
  * True story: I had a super-great Scratch video-sensing project in the book for you, and had to cut it. There were just too many things that could go wrong with it on all your different machines. Try one out here: https://scratch.mit.edu/projects/editor/?tutorial=video-sensing and here’s another one I like, which uses text-to-speech https://scratch.mit.edu/projects/editor/?tutorial=animations-that-talk
- * More at https://www.iste.org/explore/course-mind/6-resources-engage-students-coding-scratch?_ga=2.6381938.1185368180.1565218980-2023572094.1565218980,
-including by one of the creators of Scratch!
+ * More at https://www.iste.org/explore/course-mind/6-resources-engage-students-coding-scratch?_ga=2.6381938.1185368180.1565218980-2023572094.1565218980, co-authored by one of the creators of Scratch!
 
 ## Raspberry Pi 
   * Look here for projects: https://projects.raspberrypi.org/en/projects

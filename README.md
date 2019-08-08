@@ -38,4 +38,6 @@ This is the kind of article adults read to figure out the next cycle of their co
 
 And these might be good for your little sister, cousin, pal or that kid you babysit: https://www.potatopirates.game/blog/how-to-bridge-the-gender-gap-in-stem
 
+One last thing: while you're here on github, test it out with this tutorial: https://guides.github.com/activities/hello-world/
+
 Well, good luck. These links will definitely help you continue your epic and from there, just google for what you need. Hey, and if you find some great stuff, share it at @miriampeskowitz on Twitter. 

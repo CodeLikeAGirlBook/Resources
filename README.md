@@ -1,5 +1,5 @@
 # Resources
-Some links to continue your epic journey learning to code
+Some links to continue your epic journey learning to code.
 
 
 ## Scratch 

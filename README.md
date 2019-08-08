@@ -15,8 +15,8 @@ http://scratched.gse.harvard.edu/guide/curriculum.html
 
 ## Python 3
   * The tutorial at https://djangogirls.org/resources/
-   * Trinket.io’s https://hourofpython.com/. Scroll down for the python tutorials
-  * Try this Python prep course at Flatiron, it's free + there are live tech coaches to answer your questions. https://flatironschool.com/free-courses/data-science-bootcamp-prep
+   * Trinket.io’s https://hourofpython.com/. Scroll down for the python tutorials.
+  * Try this Python prep course at Flatiron, it's free + there are live tech coaches to answer your questions: https://flatironschool.com/free-courses/data-science-bootcamp-prep
   * Or this: https://www.learnpython.org/
   * Or this mega-long six-hour video: https://www.youtube.com/watch?v=_uQrJ0TkZlc
   * And the docs: https://docs.python.org/3/
@@ -34,6 +34,6 @@ https://www.freecodecamp.org/
   * The Odin Project https://www.theodinproject.com/ Jump into anything, it all eventually comes together. 
   * Hour of Code. Use the filter to choose your level: https://hourofcode.com/us/learn
   
-This is the kind of article adults read to figure out the next cycle of their code journey https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889 
+This is the kind of article adults read to figure out the next cycle of their code journey: https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889 
 
 Well, good luck. These links will definitely help you continue your epic and from there, just google for what you need. Hey, and if you find some great stuff, share it at @miriampeskowitz on Twitter. 
